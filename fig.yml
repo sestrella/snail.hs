@@ -1,0 +1,5 @@
+bash:
+  build: .
+  volumes:
+    - src:/home/sestrella/snail/src
+    - test:/home/sestrella/snail/test
